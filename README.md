@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="assets/profile-hero-bright.webp" alt="Sage Vish — Enterprise Architect, Platform Builder and Product Engineer" width="100%" />
+<img src="assets/profile-hero-bright.svg" alt="Sage Vish — Enterprise Architect, Platform Builder and Product Engineer" width="100%" />
 
 <br/>
 
