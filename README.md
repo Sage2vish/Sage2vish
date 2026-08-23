@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Sage2vish/LXC-React-Previewer-UI/main/assets/lexvora-consulting-marketplace-logo.png" alt="Lexvora Consulting" width="96" />
+
+<br/>
+
 <img src="assets/profile-hero.svg" alt="Sage Vish — Enterprise Architect, Platform Builder and Product Engineer" width="100%" />
 
 <br/>
@@ -176,7 +180,9 @@ If one of these themes overlaps with your work, feel free to explore the public 
 
 ### Build systems that are clear enough to trust — and useful enough to last.
 
-<img src="assets/lexvora-official-logo.jpeg" alt="Lexvora Consulting" width="92" />
+<img src="https://raw.githubusercontent.com/Sage2vish/LXC-React-Previewer-UI/main/assets/lexvora-consulting-marketplace-logo.png" alt="Lexvora Consulting" width="92" />
+
+<br/>
 
 <sub>Selected engineering and architecture work by Sage Vish · Lexvora Consulting</sub>
 
